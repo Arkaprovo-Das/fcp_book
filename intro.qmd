@@ -1,0 +1,3 @@
+# Introduction
+
+All code with graphics in this book are written using C-sketch
