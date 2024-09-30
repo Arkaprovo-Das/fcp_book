@@ -1,0 +1,5 @@
+# Problem 1 - Mengers Sponge
+
+Write a program to draw the following image.
+
+![](spo.svg)
